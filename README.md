@@ -9,7 +9,7 @@ First, install [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/inst
 Then the template can be launched using the latest stable version with the command:
 
 ```shell
-cookiecutter https://gitlab.com/truebees/templates/truebees-model
+cookiecutter https://github.com/AMontiB/template-model
 ```
 
 It is also possible to switch to another branch or tag by adding the `--checkout` argument followed by the branch or tag in which you want to check out.
